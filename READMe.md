@@ -4,6 +4,6 @@
 
 #Generally, this project demonstrates how to effectively perform data analyzing, data filtering, data cleaning, , and data visualization of laboratory drilling fluids data/information form different well pads using Python. I have benchmarked on tools like Python, Pandas, Jupyter Notebook, NumPy, Matplotlib, and Sea born to produce the codes, tables, scatter plots and bar graphs.
 
-## In order to read about my project, please click(.ipynb file) titled "Drilling_Fluids_Analysis_Project."
+## In order to read about my project, please click the (.ipynb file) titled "Drilling_Fluids_Analysis_Project."
 
 Thank you. 
